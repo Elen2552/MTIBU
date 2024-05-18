@@ -12,8 +12,8 @@
 
 <p>
 
-<h3> is registered in a single centralized database 31.05.2023 09:29
-Insurer
+<h3> <strong> Green card N° 90864744
+</strong>
  </h3>
 <p>
 Company name
