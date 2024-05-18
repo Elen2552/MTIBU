@@ -1,11 +1,10 @@
-<!DOCTYPE html>
 
-<meta charset=“UFT-8”>
 <html>
 
 <head>
 
-<title>Бланк результатов</title>
+<title> <strong> Green card N° 90864744
+</strong> </title>
 
 </head>
 
@@ -13,41 +12,46 @@
 
 <p>
 
-<h3> АЛЕКСЕЕВНА </h3>
+<h3> is registered in a single centralized database 31.05.2023 09:29
+Insurer
+ </h3>
 <p>
-Лаборатория и заказчик: <br>
-ООО "Эталон Здоровья" (г.Ростов-на-Дону) - Лаборатория "ДиаЛаб"<br>
-Дата рождения: <br>
-26.06.1992 <br>
-Дата заказа: <br>
-18.11.2021 08:00:00 <br>
-Дата взятия: <br>
-18.11.2021 08:23:00 <br>
-Дата получения: <br>
-18.11.2021 13:01:34 <br>
-Планируемая дата: <br>
-20.11.2021 23:59:59 <br>
-Дата выполнения: <br>
-18.11.2021 16:38:07 <br>
+Company name
+: <br>
+"IC "USG" PJSC
+<br>
+Insurer status: <br>
+The insurer is an active member of
+MTIBU <br>
+Phone number (044) 237-02-55
+E-mail: <br>
+office@usg.ua <br>
+Address: <br>
+32-A, Fedorova Ivana str, Kyiv, 03038, Ukraine <br>
+Insurance terms
+Expiration date: <br>
+from 17.05.2024 00:00 until 16.08.2024
+ <br>
+inclusive: <br>
+Insurance payment
+3713.00 eu <br>
+Territory of insurance coverage: <br>
+All green card system except of BY, RUS and IR from 01.01.2024
+ <br>
+ Vehicle  <br>
+Number plate: <br>
+AX4318MC <br>
+2M 38K 4HBL39519
+ <br>
+Vehicle type:
+ <br>
+A: Motor cars, minibuses <br>
+Mark and model: <br>
+ LINCOLN MKX <br>
 
 </p>
 
-<h3> БЛАНКИ РЕЗУЛЬТАТОВ </h3>
 
-<p>
-ПЦР исследование на SARS-CoV-2 (COVID-19) <br>
-Мазок из ротоглотки/носоглотки <br>
-</p>
-
-<table border="1">
-<tr>
-<th> </th><th> <i>Indicator</i> </th><th> <i> Result </i> </th>
-</tr>
-<tr>
-<td> <i> SARS-CoV-2 (COVID-19), qual </i> </td><td> </td><td> <i> not found </i> </td>
-</tr>
-</table>
-<p> <i> Biomaterials tested : Swab ( oropharnyx) </i> <p>
 </body>
 
 </html>
