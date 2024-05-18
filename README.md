@@ -51,7 +51,3 @@ Mark and model: <br>
 
 </p>
 
-
-</body>
-
-</html>
