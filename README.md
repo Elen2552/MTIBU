@@ -6,8 +6,8 @@
 <p>
 
 <h3> <strong> Green card N° 90864744 <br> </h3>
-</strong>is registered in a single centralized database 17.05.2024 09:29
-Insurer<br>
+<h4></strong>is registered in a single centralized database 17.05.2024 09:29
+Insurer<br></h4>
 
 <p> <strong> 
 Company name:</strong> <br>
