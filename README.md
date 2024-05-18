@@ -38,7 +38,8 @@ from 17.05.2024 00:00 until 16.08.2024
 </strong> <br>
 All green card system except of BY, RUS and IR from 01.01.2024
  <br>
- Vehicle  <br>
+ <strong>Vehicle 
+</strong> <br>
 <strong>Number plate:
 </strong> <br>
 AX4318MC <br>
@@ -48,7 +49,8 @@ AX4318MC <br>
 </strong>
  <br>
 A: Motor cars, minibuses <br>
-Mark and model: <br>
+<strong>Mark and model:
+</strong> <br>
  LINCOLN MKX <br>
 
 </p>
