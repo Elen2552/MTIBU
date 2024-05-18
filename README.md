@@ -9,7 +9,7 @@
  is registered in a single centralized database 17.05.2024 09:29
 </strong>
  </h3><br>
- <h3> <strong> Insurer: <br></strong>
+ <h3> <strong> Insurer <br></strong>
  </h3>
 <p>  
 Company name: <br>
