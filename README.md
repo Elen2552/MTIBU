@@ -6,7 +6,7 @@
 <p>
 
 <h3> <strong> Green card N° 90864744 <br> 
- is registered in a single centralized database 31.05.2023 09:29
+ is registered in a single centralized database 17.05.2024 09:29
 </strong>
  </h3><br>
  <h3> <strong> Insurer: <br></strong>
@@ -30,7 +30,7 @@ office@usg.ua <br>
 32-A, Fedorova Ivana str, Kyiv, 03038, Ukraine <br>
 <strong> Insurance terms<br>
 Expiration date: </strong><br>
-from 17.05.2024 00:00 until 16.08.2024
+from 17.05.2024 09:29 until 16.08.2024 09:29
  <br>
 <strong>inclusive:
 </strong> <br>
