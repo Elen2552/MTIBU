@@ -10,7 +10,7 @@
 Insurer<br></h4>
 
 <p><h4><strong> 
-Company name:</strong> <br></h4> 
+Company name:</strong> <br> </h4> 
 "IC "USG" PJSC
 <br>
  <strong> 
