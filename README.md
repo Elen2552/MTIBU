@@ -9,8 +9,8 @@
  is registered in a single centralized database 17.05.2024 09:29
 </strong>
  </h3><br>
- <h4> <strong> Insurer: <br></strong>
- </h4>
+ <h3> <strong> Insurer: <br></strong>
+ </h3>
 <p> <strong> 
 Company name:</strong> <br>
 "IC "USG" PJSC
@@ -41,9 +41,9 @@ from 17.05.2024 09:29 until 16.08.2024 09:29
 </strong> <br>
 All green card system except of BY, RUS and IR from 01.01.2024
  <br>
- <h4> <strong> Vehicle 
+ <h3> <strong> Vehicle 
 <br></strong>
- </h4>
+ </h3>
 <strong>Number plate:
 </strong> <br>
 AX4318MC <br>
