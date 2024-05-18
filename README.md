@@ -1,13 +1,6 @@
 
 <html>
 
-<head>
-
-<title> <strong> Green card N° 90864744
-</strong> </title>
-
-</head>
-
 <body>
 
 <p>
@@ -15,35 +8,44 @@
 <h3> <strong> Green card N° 90864744
 </strong>
  </h3>
-<p>
-Company name
-: <br>
+<p> <strong> 
+Company name:</strong> <br>
 "IC "USG" PJSC
 <br>
-Insurer status: <br>
+ <strong> 
+Insurer status:</strong> <br>
 The insurer is an active member of
 MTIBU <br>
-Phone number (044) 237-02-55
-E-mail: <br>
+<strong>Phone number:
+</strong><br> 
+ (044) 237-02-55<br>
+<strong>E-mail:
+</strong> <br>
 office@usg.ua <br>
-Address: <br>
+<strong>Address:
+</strong> <br>
 32-A, Fedorova Ivana str, Kyiv, 03038, Ukraine <br>
-Insurance terms
-Expiration date: <br>
+<strong> Insurance terms<br>
+Expiration date: </strong><br>
 from 17.05.2024 00:00 until 16.08.2024
  <br>
-inclusive: <br>
-Insurance payment
+<strong>inclusive:
+</strong> <br>
+<strong>Insurance payment:<br>
+</strong>
 3713.00 eu <br>
-Territory of insurance coverage: <br>
+<strong>Territory of insurance coverage:
+</strong> <br>
 All green card system except of BY, RUS and IR from 01.01.2024
  <br>
  Vehicle  <br>
-Number plate: <br>
+<strong>Number plate:
+</strong> <br>
 AX4318MC <br>
 2M 38K 4HBL39519
  <br>
-Vehicle type:
+<strong>Vehicle type:
+</strong>
  <br>
 A: Motor cars, minibuses <br>
 Mark and model: <br>
