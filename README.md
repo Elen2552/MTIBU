@@ -6,9 +6,9 @@
 <p>
 
 <h3> <strong> Green card N° 90864744 <br> 
- is registered in a single centralized database 31.05.2023 09:29<br>
+ is registered in a single centralized database 31.05.2023 09:29
 </strong>
- </h3>
+ </h3><br>
  <h3> <strong> Insurer: <br></strong>
  </h3>
 <p> <strong> 
