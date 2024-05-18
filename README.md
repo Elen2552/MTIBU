@@ -5,53 +5,55 @@
 
 <p>
 
-<h3> <strong> Green card N° 90864744 <br> </h3>
-<h4></strong>is registered in a single centralized database 17.05.2024 09:29
-Insurer<br></h4>
+<h3> <strong> Green card N° 90864744 <br> 
+ is registered in a single centralized database 31.05.2023 09:29
+Insurer <br>
 
-<p><h4><strong> 
-Company name:</strong> <br> </h4> 
+</strong>
+ </h3>
+<p> <strong> 
+Company name:</strong> <br>
 "IC "USG" PJSC
 <br>
  <strong> 
-<h4>Insurer status:</strong> <br></h4>
+Insurer status:</strong> <br>
 The insurer is an active member of
 MTIBU <br>
-<h4><strong>Phone number:</h4>
+<strong>Phone number:
 </strong><br> 
  (044) 237-02-55<br>
-<h4><strong>E-mail:</h4>
+<strong>E-mail:
 </strong> <br>
 office@usg.ua <br>
-<h4><strong>Address:</h4>
+<strong>Address:
 </strong> <br>
 32-A, Fedorova Ivana str, Kyiv, 03038, Ukraine <br>
 <strong> Insurance terms<br>
-<h4>Expiration date: </strong><br></h4>
-from 17.05.2024 09:29 until 16.08.2024 09:29
+Expiration date: </strong><br>
+from 17.05.2024 00:00 until 16.08.2024
  <br>
-<h4><strong>inclusive:</h4>
+<strong>inclusive:
 </strong> <br>
 <strong>Insurance payment:<br>
 </strong>
-3713.00 uah <br>
-<h4><strong>Territory of insurance coverage:</h4>
+3713.00 eu <br>
+<strong>Territory of insurance coverage:
 </strong> <br>
 All green card system except of BY, RUS and IR from 01.01.2024
  <br>
-<h3> <strong>Vehicle 
-</strong> <br></h3>
-<h4><strong>Number plate:
-</strong> <br></h4>
+ <strong>Vehicle 
+</strong> <br>
+<strong>Number plate:
+</strong> <br>
 AX4318MC <br>
 2M 38K 4HBL39519
  <br>
-<h4><strong>Vehicle type:
+<strong>Vehicle type:
 </strong>
- <br></h4>
+ <br>
 A: Motor cars, minibuses <br>
-<h4><strong>Mark and model:
-</strong> <br></h4>
+<strong>Mark and model:
+</strong> <br>
  LINCOLN MKX <br>
 
 </p>
