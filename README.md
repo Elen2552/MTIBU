@@ -30,7 +30,7 @@ Address:
 <strong>32-A, Fedorova Ivana str, Kyiv, 03038, Ukraine</strong> <br>
 <h3> <strong>Insurance terms</strong></h3><br>
 Expiration date: <br>
-<strong>from 17.05.2024 09:29 until 16.08.2024 09:29</strong>
+<strong>from 23.12.2024 09:29 until 22.02.2025 09:29</strong>
  <br>
 <strong>inclusive:
 </strong> <br>
